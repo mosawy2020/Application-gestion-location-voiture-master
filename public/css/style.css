@@ -1,0 +1,55 @@
+/******* debut page login ***/
+
+/******* fin  page login ***/
+
+/**/
+body{
+    background-color:#2222;
+}
+.h2-header{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: .7px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+/*navbar*/
+nav .nav-link{
+    color: #fff !important;
+}
+/**/
+
+/* debut agence.index*/
+.agence h3{
+    color:red;
+}
+.agence span b{
+    color: rebeccapurple;
+}
+.agence h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+    font-style: italic;
+    font-family: initial;
+}
+.agence .btn{
+    padding: 40px;
+    font-size: 22px;
+    font-weight: bold;
+}
+/* fin agence.index*/
+/*agence*/
+.header-agence  {
+   
+	position: relative;
+	
+}
+.header-agence h1{
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+/*agence*/
